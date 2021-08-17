@@ -1,4 +1,3 @@
 # workshop
-
-this is second
-and this is first
+This repo is for workshop
+This is the updated repo.
